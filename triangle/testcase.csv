@@ -1,0 +1,6 @@
+-,a,2,Invalid Input
+3,4,5,Right triangle
+4,4,4,Equilateral triangle
+4,4,5,Isosceles triangle
+5,2,4,Normal triangle
+1,1,1.41421356237,Right Isosceles triangle
